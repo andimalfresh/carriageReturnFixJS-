@@ -4,7 +4,7 @@ that may come up in your programs using JavaScript.
 resultVariable = resultVariable.replace(/(\r\n|\n|\r)/gm,"");
 
 Before:
-<a herf=https://photos.google.com/search/_tra_/photo/AF1QipOYed3_Va3SioI2c8pkkWuWhUb_5CKrKSvCnew0> 
+<a herf="https://photos.google.com/search/_tra_/photo/AF1QipOYed3_Va3SioI2c8pkkWuWhUb_5CKrKSvCnew0"> 
 console.log results Before </a>
 
 
